@@ -1,0 +1,21 @@
+.box{
+	width: 100pt;
+	height: 100px;
+	background-color: #c3c37a;
+}
+.green{
+	background-color: green;
+}
+.red{
+	background-color: red;
+	margin: 50px;
+}
+.head1{
+	color: red;
+}
+.head2{
+	border: 10px solid blue;
+}
+#head4{
+	background-color: yellow;
+}
